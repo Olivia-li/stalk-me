@@ -4,5 +4,5 @@ I travel pretty often so this is a way for my friends to figure out which city I
 
 <p float="left">
   <img src="https://github.com/Olivia-li/stalk-me/blob/media/app.png" width="400" />
-  <img src="https://github.com/Olivia-li/stalk-me/blob/media/website.png" width="800" /> 
+  <img src="https://github.com/Olivia-li/stalk-me/blob/media/website.png" width="800" style="border: 1px solid black"/> 
 </p>
